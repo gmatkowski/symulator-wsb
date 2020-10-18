@@ -1,0 +1,13 @@
+C:\Users\gmatk\source\repos\Symulator\obj\Debug\netcoreapp3.1\Symulator.csprojAssemblyReference.cache
+C:\Users\gmatk\source\repos\Symulator\obj\Debug\netcoreapp3.1\Symulator.csproj.CoreCompileInputs.cache
+C:\Users\gmatk\source\repos\Symulator\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfoInputs.cache
+C:\Users\gmatk\source\repos\Symulator\obj\Debug\netcoreapp3.1\Symulator.AssemblyInfo.cs
+C:\Users\gmatk\source\repos\Symulator\bin\Debug\netcoreapp3.1\Symulator.exe
+C:\Users\gmatk\source\repos\Symulator\bin\Debug\netcoreapp3.1\Symulator.deps.json
+C:\Users\gmatk\source\repos\Symulator\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.json
+C:\Users\gmatk\source\repos\Symulator\bin\Debug\netcoreapp3.1\Symulator.runtimeconfig.dev.json
+C:\Users\gmatk\source\repos\Symulator\bin\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\gmatk\source\repos\Symulator\bin\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\gmatk\source\repos\Symulator\obj\Debug\netcoreapp3.1\Symulator.dll
+C:\Users\gmatk\source\repos\Symulator\obj\Debug\netcoreapp3.1\Symulator.pdb
+C:\Users\gmatk\source\repos\Symulator\obj\Debug\netcoreapp3.1\Symulator.genruntimeconfig.cache
